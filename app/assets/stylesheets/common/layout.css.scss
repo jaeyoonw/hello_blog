@@ -1,0 +1,27 @@
+.container {
+  margin: 0 auto;
+  width: 960px;
+  text-align: center;
+}
+
+header {
+  a {
+    color: #414142;
+    font-weight: 800;
+    font-size: 3.75em;
+    text-decoration: none;
+  }
+  p {
+    margin-top: 10px;
+  }
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  img {
+    width: 100px;
+  }
+}
